@@ -8,8 +8,8 @@ Hey! evryone. I hope everyone doing great.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/nft-card-using-html-and-css-QnSYD75gJ)
-- Live Site URL: [Add live site URL here](https://nft-preview-card-frontendmentor-proj.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-card-using-html-and-css-QnSYD75gJ)
+- Live Site URL: [NFT preview Card](https://nft-preview-card-frontendmentor-proj.netlify.app/)
 
 ## Author
 
